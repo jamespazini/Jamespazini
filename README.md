@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="programador.png" width="400"/>
-</p>
-
-<h1 align="center">James Lino Pazini</h1>
-<h3 align="center">Desenvolvedor Full Stack | Futuro Engenheiro de Dados</h3>
-# 👋 Olá, eu sou James  Pazini
+# 👋 Olá, eu sou James Lino Pazini
 
 🎓 Estudante de Ciência da Computação  
 💻 Desenvolvedor Full Stack em formação  
@@ -47,3 +41,4 @@
 Sou estudante de Ciência da Computação com foco em desenvolvimento Full Stack e interesse crescente em arquitetura de dados, bancos relacionais, pipelines de dados e ambientes em nuvem.
 
 Busco construir uma carreira sólida unindo desenvolvimento de software, cloud computing e engenharia de dados.
+  
