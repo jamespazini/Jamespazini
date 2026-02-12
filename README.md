@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou James Lino Pazini
+# 👋 Olá, eu sou James  Pazini
 
 🎓 Estudante de Ciência da Computação  
 💻 Desenvolvedor Full Stack em formação  
