@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="programador.png" width="400"/>
+</p>
 
-# 👋 Olá, eu sou James Lino Pazini
+<h1 align="center">James Lino Pazini</h1>
+<h3 align="center">Desenvolvedor Full Stack | Futuro Engenheiro de Dados</h3>
+# 👋 Olá, eu sou James  Pazini
 
 🎓 Estudante de Ciência da Computação  
 💻 Desenvolvedor Full Stack em formação  
